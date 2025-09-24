@@ -13,6 +13,7 @@ I built it to practice web dev basics and also to have a place where I can showc
 ---
 
 ## How to run
+https://yashwardhan-rao.github.io/portfolio-website/
 Just download/clone the repo and open `index.html` in your browser.
 
 ```bash
