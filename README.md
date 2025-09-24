@@ -5,11 +5,6 @@ I built it to practice web dev basics and also to have a place where I can showc
 
 ---
 
-## Live Demo
-👉 [Click here](https://yashwardhan-rao.github.io/portfolio-website/) to check it out.
-
----
-
 ## Features
 - Simple and responsive design  
 - Sections for projects, skills, and contact info  
